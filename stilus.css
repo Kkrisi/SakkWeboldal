@@ -1,0 +1,104 @@
+* { /*Minden html elemre érvényes lesz*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  /*width értékbe a padding és a border is beletartozik*/
+    font-family: "Times New Roman", Times, serif;
+}
+header {
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+}
+body {
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+    color: white;
+    padding: 10px;
+}
+header h1 {
+    color: black;
+    font-size: 2em;
+    padding: 10px 0px 10px;
+}
+img {
+    width: 100%;
+}
+article {
+	padding: 3% 0% 0% 18%;
+}
+
+
+
+
+
+
+
+
+table {
+	border-collapse: collapse;
+	text-align: center;
+	font-size:1.1rem;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+	width: 3em;
+	height: 3em;
+}
+.white {
+  background-color: black;
+}
+
+.black {
+  background-color: white;
+}
+
+
+
+
+
+.gray {
+	background-color: gray;
+	text-align: center;
+	border: none;
+	height: 1.5em;
+	width: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
